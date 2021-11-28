@@ -23,7 +23,7 @@ Try either of these commands to see which works:
 `sudo apt install dkms`
 `sudo rmmod r8188eu.ko`
 
-`git clone https://github.com/aircrack-ng/rtl8188eus`
+`git clone https://github.com/aircrack-ng/rtl8188eus`\n
 `cd rtl8188eus`
 `sudo -i`
 `echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"`
