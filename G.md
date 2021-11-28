@@ -1,4 +1,4 @@
-!Use these commands to get the adapter working on Kali for packet injection and monitoring:
+Use these commands to get the adapter working on Kali for packet injection and monitoring:
 Commands:
 ==========
 `sudo apt update`
